@@ -1,0 +1,196 @@
+canonical_identifier: bkk:krp/KR2e0004/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2e0004/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鮑氏戰國策注
+  date: '2015-08-24 22:29:53.663244'
+  source:
+    repository: kanripo
+    path: KR2e0004
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2e0004_000-WYG.yaml, hash: 'sha256:153d7c4a9dc2895c3da508442d71d0c1d617ad401caeeacb3e78381a2a49ba2e'}
+  - {seq: 1, filename: KR2e0004_001-WYG.yaml, hash: 'sha256:d3bc9417573e66b37534c152ee3e26872a7a5be72f9bba05c446856d266a70ec'}
+  - {seq: 2, filename: KR2e0004_002-WYG.yaml, hash: 'sha256:b8f9c32c94a16d6f17b2fd5124d9ba8c9a82aa9a0a642d32432980bfbe5cc018'}
+  - {seq: 3, filename: KR2e0004_003-WYG.yaml, hash: 'sha256:6e113d78f7f1884f882cab621bc576d934a1088e8da6b07235fcf8eebb917e51'}
+  - {seq: 4, filename: KR2e0004_004-WYG.yaml, hash: 'sha256:8616d3d1cd8164ee5c6d1aacdf95eaf3e50d81732ba92429f75b98fe7e960317'}
+  - {seq: 5, filename: KR2e0004_005-WYG.yaml, hash: 'sha256:022303c079a5f4ace626c11a53ad3ec87da3e43b6c6bdfecd89dedd277d7244b'}
+  - {seq: 6, filename: KR2e0004_006-WYG.yaml, hash: 'sha256:8e25f0f2bd4737d26017ac812262c99ba31861aba3fa249f9e2053bb9d2ccf98'}
+  - {seq: 7, filename: KR2e0004_007-WYG.yaml, hash: 'sha256:39cb9cf76a343dc8f215856949b5ecb8ea56163a7011eaab65a182b31668c84b'}
+  - {seq: 8, filename: KR2e0004_008-WYG.yaml, hash: 'sha256:61ac50725231883dfa2cbb6471381102f7177b933b98dabe54e1e15b1f9b2e35'}
+  - {seq: 9, filename: KR2e0004_009-WYG.yaml, hash: 'sha256:d9546d061155919688f40fc9289b61ed8bef72093fa1242b807fd67a443c4be3'}
+  - {seq: 10, filename: KR2e0004_010-WYG.yaml, hash: 'sha256:7a51211b5d4fc18340a61a39120c5b77c2be0099dd6f8ae7173b815bd123e5a2'}
+  - {seq: 11, filename: KR2e0004_011-WYG.yaml, hash: 'sha256:8b52403e31a393f3e32e0fec1742a86cdb56e9c8f775c49d4452821f0c369cd1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2e0004_000-WYG.markers.yaml, hash: 'sha256:9d2baeb77782b400d2a1094e36698dec6eef30b5e179e5b399596eaba2b5d0fc'}
+  - {seq: 1, role: markers, filename: assets/KR2e0004_001-WYG.markers.yaml, hash: 'sha256:d91739fa36df8d4ae27f38ab17cce13ffaff91c0051dd0eb4c7d508dc7e84f8d'}
+  - {seq: 2, role: markers, filename: assets/KR2e0004_002-WYG.markers.yaml, hash: 'sha256:61ab245489ac9d53806ab15dce4b09271ab50161478ad0128c8dab34247ee283'}
+  - {seq: 3, role: markers, filename: assets/KR2e0004_003-WYG.markers.yaml, hash: 'sha256:efa37073a29764b4808328d39ea2fbb160a6c7258b8bc7155352130a28e07a85'}
+  - {seq: 4, role: markers, filename: assets/KR2e0004_004-WYG.markers.yaml, hash: 'sha256:763a6acfb9499878e3561183146a62661b51285eb4e6435a610dc88d0d62a882'}
+  - {seq: 5, role: markers, filename: assets/KR2e0004_005-WYG.markers.yaml, hash: 'sha256:8db84e60c66e189d4fafab5f27b3b6d37b02d26448a8f4695394a8990a169fe8'}
+  - {seq: 6, role: markers, filename: assets/KR2e0004_006-WYG.markers.yaml, hash: 'sha256:37532d59184211bb9058eab2b922fa9c88d5b25d04fe652febc6f20866789584'}
+  - {seq: 7, role: markers, filename: assets/KR2e0004_007-WYG.markers.yaml, hash: 'sha256:9eb2ed5f429752309dca2658a7bbbd281b5232a7d11f240dd0dd93bc16ecf2a2'}
+  - {seq: 8, role: markers, filename: assets/KR2e0004_008-WYG.markers.yaml, hash: 'sha256:33ea65e91d1278afda4d152fc106c04a305ceac4f828f9855bfceeb16feb7a11'}
+  - {seq: 9, role: markers, filename: assets/KR2e0004_009-WYG.markers.yaml, hash: 'sha256:777ca219ea7ae6ab2dc38d0271217a79c8c4790310c57785553164b340929e5e'}
+  - {seq: 10, role: markers, filename: assets/KR2e0004_010-WYG.markers.yaml, hash: 'sha256:d21c8e80007bb5555da07dbe9571217ff3f5958070ce5fc130c2310a0b8dd8da'}
+  - {seq: 11, role: markers, filename: assets/KR2e0004_011-WYG.markers.yaml, hash: 'sha256:bc29c45cb90f0b384e7a842cc04cd5edd118b8ebebee4c4b4c8475060ea47010'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2e0004_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 610
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2e0004_WYG_000-4a
+    span:
+    - body
+    - 610
+    - 1816
+  label: 序劉向
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2e0004_WYG_000-8a
+    span:
+    - body
+    - 1816
+    - 2487
+  label: 序曾鞏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2e0004_WYG_000-11a
+    span:
+    - body
+    - 2487
+    - 2923
+  label: 序鮑彪
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2e0004_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4847
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2e0004_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 5236
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2e0004_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 33034
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2e0004_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 25402
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2e0004_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 17931
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2e0004_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 30685
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2e0004_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 24085
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2e0004_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 14381
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2e0004_WYG_009-1a
+    span:
+    - body
+    - 0
+    - 18091
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2e0004_WYG_010-1a
+    span:
+    - body
+    - 0
+    - 5589
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR2e0004_WYG_011-1a
+    span:
+    - body
+    - 0
+    - 700
+  label: 李文叔書戰國策
+  type: section
+  level: 1
+hash: sha256:ee492bc6c204f250d2ff47633327628fb43189a26adaa97614b4eec08c70773d
