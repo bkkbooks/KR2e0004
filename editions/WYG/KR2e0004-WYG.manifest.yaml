@@ -30,17 +30,17 @@ assets:
   - {seq: 10, filename: KR2e0004_010-WYG.yaml, hash: 'sha256:7a51211b5d4fc18340a61a39120c5b77c2be0099dd6f8ae7173b815bd123e5a2'}
   - {seq: 11, filename: KR2e0004_011-WYG.yaml, hash: 'sha256:8b52403e31a393f3e32e0fec1742a86cdb56e9c8f775c49d4452821f0c369cd1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2e0004_000-WYG.markers.yaml, hash: 'sha256:9d2baeb77782b400d2a1094e36698dec6eef30b5e179e5b399596eaba2b5d0fc'}
-  - {seq: 1, role: markers, filename: assets/KR2e0004_001-WYG.markers.yaml, hash: 'sha256:d91739fa36df8d4ae27f38ab17cce13ffaff91c0051dd0eb4c7d508dc7e84f8d'}
-  - {seq: 2, role: markers, filename: assets/KR2e0004_002-WYG.markers.yaml, hash: 'sha256:61ab245489ac9d53806ab15dce4b09271ab50161478ad0128c8dab34247ee283'}
-  - {seq: 3, role: markers, filename: assets/KR2e0004_003-WYG.markers.yaml, hash: 'sha256:efa37073a29764b4808328d39ea2fbb160a6c7258b8bc7155352130a28e07a85'}
-  - {seq: 4, role: markers, filename: assets/KR2e0004_004-WYG.markers.yaml, hash: 'sha256:763a6acfb9499878e3561183146a62661b51285eb4e6435a610dc88d0d62a882'}
-  - {seq: 5, role: markers, filename: assets/KR2e0004_005-WYG.markers.yaml, hash: 'sha256:8db84e60c66e189d4fafab5f27b3b6d37b02d26448a8f4695394a8990a169fe8'}
-  - {seq: 6, role: markers, filename: assets/KR2e0004_006-WYG.markers.yaml, hash: 'sha256:37532d59184211bb9058eab2b922fa9c88d5b25d04fe652febc6f20866789584'}
-  - {seq: 7, role: markers, filename: assets/KR2e0004_007-WYG.markers.yaml, hash: 'sha256:9eb2ed5f429752309dca2658a7bbbd281b5232a7d11f240dd0dd93bc16ecf2a2'}
-  - {seq: 8, role: markers, filename: assets/KR2e0004_008-WYG.markers.yaml, hash: 'sha256:33ea65e91d1278afda4d152fc106c04a305ceac4f828f9855bfceeb16feb7a11'}
-  - {seq: 9, role: markers, filename: assets/KR2e0004_009-WYG.markers.yaml, hash: 'sha256:777ca219ea7ae6ab2dc38d0271217a79c8c4790310c57785553164b340929e5e'}
-  - {seq: 10, role: markers, filename: assets/KR2e0004_010-WYG.markers.yaml, hash: 'sha256:d21c8e80007bb5555da07dbe9571217ff3f5958070ce5fc130c2310a0b8dd8da'}
+  - {seq: 0, role: markers, filename: assets/KR2e0004_000-WYG.markers.yaml, hash: 'sha256:8ac7e38605787c727a216711b2b8382671b55c732f6b14fd7b629556120c0829'}
+  - {seq: 1, role: markers, filename: assets/KR2e0004_001-WYG.markers.yaml, hash: 'sha256:118b2e7c3de11ff97389ec7875b0837d7b44846fb9c70b971db791919e2f00b2'}
+  - {seq: 2, role: markers, filename: assets/KR2e0004_002-WYG.markers.yaml, hash: 'sha256:0061db06aa7c1833dd930fa50ebbec116ec8411280c2b6abc84b8c23e1ed6935'}
+  - {seq: 3, role: markers, filename: assets/KR2e0004_003-WYG.markers.yaml, hash: 'sha256:988100f527c8a595de86431444c923f734a6b721bba732ef30f2d21a011bbf8e'}
+  - {seq: 4, role: markers, filename: assets/KR2e0004_004-WYG.markers.yaml, hash: 'sha256:9331e5e999ccedc3e03dec44c6f581e45d70a5ab5869ab42e26ae43cb82bbc9f'}
+  - {seq: 5, role: markers, filename: assets/KR2e0004_005-WYG.markers.yaml, hash: 'sha256:c7d9468fa5d75f7795d479943b896ede59a9cfb57e4164beaf80fa6ba821c306'}
+  - {seq: 6, role: markers, filename: assets/KR2e0004_006-WYG.markers.yaml, hash: 'sha256:860120af8700cd604225c0e58dc6b6a4199c14a10a7f609b865a1ed05fcfc8c0'}
+  - {seq: 7, role: markers, filename: assets/KR2e0004_007-WYG.markers.yaml, hash: 'sha256:a47e90c0a89f95a47ae8000300dbaace750fbcdc94b1c82304737efe2cd7a535'}
+  - {seq: 8, role: markers, filename: assets/KR2e0004_008-WYG.markers.yaml, hash: 'sha256:1f22771927ca4e6020e88141084db1240d1e625a093e573dc750bca9de4006a2'}
+  - {seq: 9, role: markers, filename: assets/KR2e0004_009-WYG.markers.yaml, hash: 'sha256:0f7f0cb9e9cf7860c0a7035cbc0e5fdfad1869f202e346f170b08257c4c4d5a4'}
+  - {seq: 10, role: markers, filename: assets/KR2e0004_010-WYG.markers.yaml, hash: 'sha256:5c5a63df7b51f73c0ae4de73d28c9e3e7f4f3eabcedfc4cdf3a95edd00b339b3'}
   - {seq: 11, role: markers, filename: assets/KR2e0004_011-WYG.markers.yaml, hash: 'sha256:bc29c45cb90f0b384e7a842cc04cd5edd118b8ebebee4c4b4c8475060ea47010'}
 table_of_contents:
 - ref:
@@ -193,4 +193,4 @@ table_of_contents:
   label: 李文叔書戰國策
   type: section
   level: 1
-hash: sha256:ee492bc6c204f250d2ff47633327628fb43189a26adaa97614b4eec08c70773d
+hash: sha256:0381761f36fa7fe843535a56167084bf241b341ef49c39a78cda2602577f2fee
